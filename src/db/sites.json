@@ -1,6 +1,14 @@
 [
     {
         "id": "1",
+        "name": "Showcase (Portfolio)",
+        "description": "Source for this showcase. Made with React.",
+        "github": "ttps://github.com/ssisaias/portfolio",
+        "sitelink": "https://showcase.isaiasdevlog.com",
+        "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1696250815/showcase/y5csppwm2it48ntekddi.jpg"
+    },
+    {
+        "id": "2",
         "name": "Coffee Delivery",
         "description": "Sample Coffee Delivery website built with React",
         "github": "https://github.com/ssisaias/desafio02-coffee-delivery",
