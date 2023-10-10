@@ -1,4 +1,4 @@
-import { WebsiteCardContainer, WsCardDescriptionContainer } from "./styles"
+import { WebsiteCardContainer, WsCardHeaderContainer, WsCardDescriptionContainer } from "./styles"
 import { CardInterface } from "../../interface/interfaces"
 import { CardHeaderImg } from "./CardImgHeader/styles"
 import { WSCardFooterContainer } from "./CardFooterButtons/styles"
@@ -14,9 +14,9 @@ export function WebsiteCard({ cardItem }: WebsiteCardProps) {
 
   return (
     <WebsiteCardContainer>
-      <WsCardDescriptionContainer>
+      <WsCardHeaderContainer>
         <h4>{cardItem.name}</h4>
-      </WsCardDescriptionContainer>
+      </WsCardHeaderContainer>
       <CardHeaderImg>
         <img src={cardItem.image} alt={cardItem.image} />
       </CardHeaderImg>

@@ -8,15 +8,31 @@ export const WebsiteCardContainer = styled.div`
     background: ${props => props.theme['base-card']};
 `
 
+export const WsCardHeaderContainer = styled.div`
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+
+    h4{
+        font-family: 'Baloo 2';
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 130%;
+        color: ${props => props.theme['base-subtitle']};
+    }
+`
+
 export const WsCardDescriptionContainer = styled.div`
     padding-left: 1.25rem;
     padding-right: 1.25rem;
+    height: 5.5rem;
+    overflow: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     h4{
         font-family: 'Baloo 2';
         font-size: 1rem;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 130%;
+        font-weight: 400;
+        line-height: 100%;
         color: ${props => props.theme['base-subtitle']};
     }
 `

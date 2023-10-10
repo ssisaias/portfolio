@@ -5,7 +5,7 @@
         "description": "Source for this showcase. Made with React.",
         "github": "https://github.com/ssisaias/portfolio",
         "sitelink": "https://showcase.isaiasdevlog.com",
-        "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/q_auto:eco/c_fit,h_275/showcase/y5csppwm2it48ntekddi.jpg"
+        "image": "https://raw.githubusercontent.com/ssisaias/portfolio/main/src/assets/s-logo.png"
     },
     {
         "id": "2",
@@ -14,5 +14,13 @@
         "github": "https://github.com/ssisaias/desafio02-coffee-delivery",
         "sitelink": "https://delightful-bonbon-5889fa.netlify.app/",
         "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/f_auto,q_auto/v1/showcase/avy0jctm4zfwu5cuorcu"
+    },
+    {
+        "id": "3",
+        "name": "Rotion (notion clone)",
+        "description": "Simple clone of the popular note taking app Notion. Built with Electron and React.",
+        "github": "https://github.com/ssisaias/rotion",
+        "sitelink": "https://github.com/ssisaias/rotion/releases/tag/v1.0.10",
+        "image": "https://raw.githubusercontent.com/ssisaias/rotion/master/.github/demo.gif"
     }
 ]
