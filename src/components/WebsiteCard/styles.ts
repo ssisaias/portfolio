@@ -6,6 +6,14 @@ export const WebsiteCardContainer = styled.div`
     flex-shrink: 0;
     border-radius: 6px;
     background: ${props => props.theme['base-card']};
+
+    @media (max-width: 768px) {
+        width: 90%;
+        margin-bottom: 1rem;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
 `
 
 export const WsCardHeaderContainer = styled.div`

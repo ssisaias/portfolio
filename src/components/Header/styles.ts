@@ -5,8 +5,9 @@ export const HeaderContainer = styled.header`
   align-items: center;
   justify-content: space-between;
   position: sticky;
+  z-index: 1;
   top: 0;
-  background: ${(props) => props.theme['background']};
+  background: ${(props) => props.theme.background};
 
   img{
     margin-right: 8px;
