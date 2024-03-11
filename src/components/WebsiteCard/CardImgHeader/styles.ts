@@ -5,10 +5,9 @@ export const CardHeaderImg = styled.div`
     justify-content:center;
     
     img {
-        width: 300px;
+        width: 99%;
         height: 250px;
-        border-radius: 3.33%;
+        border-radius: 6px;
         object-fit: contain;
-
     }
 `;

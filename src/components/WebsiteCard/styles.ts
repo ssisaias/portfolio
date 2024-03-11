@@ -1,10 +1,10 @@
 import styled from 'styled-components'
 
 export const WebsiteCardContainer = styled.div`
-    width: 310px;
+    width: 23.5%;
     height: auto;
     flex-shrink: 0;
-    border-radius: 5%;
+    border-radius: 6px;
     background: ${props => props.theme['base-card']};
 `
 

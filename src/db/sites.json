@@ -22,5 +22,13 @@
         "github": "https://github.com/ssisaias/rotion",
         "sitelink": "https://github.com/ssisaias/rotion/releases/tag/v1.0.10",
         "image": "https://raw.githubusercontent.com/ssisaias/rotion/master/.github/demo.gif"
+    },
+    {
+      "id": "4",
+      "name": "DT Money",
+      "description": "DT Money is a simple expense tracker used to build on the concepts of forms, hooks, useCallback and Memo/useMemo",
+      "github": "https://github.com/ssisaias/dtmoney",
+      "sitelink": "https://incandescent-dasik-f286a1.netlify.app/",
+      "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710178503/showcase/Screenshot_2024-03-11_143442_upmluo.png"
     }
-]
+]  

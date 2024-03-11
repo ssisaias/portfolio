@@ -26,4 +26,9 @@ export const WSCardFooterContainer = styled.div`
         }
     }
 
+    a:hover{
+        opacity: 0.6;
+        transition: 0.2s;
+    }
+
 `

@@ -16,7 +16,7 @@ export function WebsiteList() {
               ))}
             </WSList>
           </>  :
-          <h3>Estamos sem cafeína. Volte mais tarde.</h3> }
+          <h3>Não achamos nada :(</h3> }
         </WebsiteListContainer>
     )
 }

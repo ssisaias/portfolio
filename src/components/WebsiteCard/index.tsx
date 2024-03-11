@@ -1,17 +1,19 @@
-import { WebsiteCardContainer, WsCardHeaderContainer, WsCardDescriptionContainer } from "./styles"
-import { CardInterface } from "../../interface/interfaces"
-import { CardHeaderImg } from "./CardImgHeader/styles"
-import { WSCardFooterContainer } from "./CardFooterButtons/styles"
-import { ArrowSquareOut, GitFork } from "@phosphor-icons/react"
-import { Link } from "react-router-dom"
+import {
+  WebsiteCardContainer,
+  WsCardHeaderContainer,
+  WsCardDescriptionContainer,
+} from "./styles";
+import { CardInterface } from "../../interface/interfaces";
+import { CardHeaderImg } from "./CardImgHeader/styles";
+import { WSCardFooterContainer } from "./CardFooterButtons/styles";
+import { ArrowSquareOut, GitFork } from "@phosphor-icons/react";
+import { Link } from "react-router-dom";
 
 export interface WebsiteCardProps {
-  cardItem: CardInterface
+  cardItem: CardInterface;
 }
 
 export function WebsiteCard({ cardItem }: WebsiteCardProps) {
-
-
   return (
     <WebsiteCardContainer>
       <WsCardHeaderContainer>
@@ -26,20 +28,16 @@ export function WebsiteCard({ cardItem }: WebsiteCardProps) {
       </WsCardDescriptionContainer>
 
       <WSCardFooterContainer>
+        <Link to={cardItem.github || ""} target="_blank">
+          <span>Source</span>
+          <GitFork color="" size={18} />
+        </Link>
 
-        
-          <Link to={cardItem.github || ""} target="_blank">
-            <span>Source</span>
-            <GitFork color="" size={18} />
-          </Link>
-
-        
-          <Link to={cardItem.sitelink || ""} target="_blank">
-            <span>Preview</span>
-            <ArrowSquareOut color="" size={18} />
-          </Link>
-
+        <Link to={cardItem.sitelink || ""} target="_blank">
+          <span>Preview</span>
+          <ArrowSquareOut color="" size={18} />
+        </Link>
       </WSCardFooterContainer>
     </WebsiteCardContainer>
-  )
+  );
 }
