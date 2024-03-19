@@ -30,5 +30,13 @@
       "github": "https://github.com/ssisaias/dtmoney",
       "sitelink": "https://incandescent-dasik-f286a1.netlify.app/",
       "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710178503/showcase/Screenshot_2024-03-11_143442_upmluo.png"
+    },
+    {
+      "id": "5",
+      "name": "Github blog",
+      "description": "A simple blog using Github API to fetch data, uses React Router, Styled Components, hooks, contexts etc...",
+      "github": "https://github.com/ssisaias/desafio03-github-blog",
+      "sitelink": "https://endearing-bonbon-be1d65.netlify.app/",
+      "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710887618/showcase/aaa_l0b97o.png"
     }
 ]  
