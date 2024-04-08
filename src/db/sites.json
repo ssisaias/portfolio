@@ -38,5 +38,13 @@
       "github": "https://github.com/ssisaias/desafio03-github-blog",
       "sitelink": "https://endearing-bonbon-be1d65.netlify.app/",
       "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710887618/showcase/aaa_l0b97o.png"
+    },
+    {
+      "id": "6",
+      "name": "Pizza Shop",
+      "description": "Pizza shop app to view and control orders. Description of the stack used on the repo's README",
+      "github": "https://github.com/ssisaias/pizzashop",
+      "sitelink": "https://main--steady-youtiao-ded71c.netlify.app/",
+      "image": "https://raw.githubusercontent.com/ssisaias/pizzashop/main/image.png"
     }
 ]  
