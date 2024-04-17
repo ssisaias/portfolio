@@ -62,5 +62,13 @@
       "github": "https://github.com/ssisaias/crabfactory",
       "sitelink": "https://crabfactory.vip/",
       "image": "https://c.tenor.com/SokDBqmMsT8AAAAd/tenor.gif"
+    },
+    {
+      "id": "9",
+      "name": "NextJs App Router Shop",
+      "description": "NextJs App Router Shop with Stripe integration sample",
+      "github": "https://github.com/ssisaias/ignite-shop-app-router",
+      "sitelink": "https://next-app-router-stripe-shop.netlify.app/",
+      "image": "https://raw.githubusercontent.com/ssisaias/ignite-shop-app-router/main/thumbs.png"
     }
 ]  
