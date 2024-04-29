@@ -74,7 +74,7 @@
     {
       "id": "10",
       "name": "Design System + Storybook",
-      "description": "NextJs App Router Shop with Stripe integration sample",
+      "description": "Monorepo using Storybook to create a design system with React + Tailwind",
       "github": "https://github.com/ssisaias/design-system-05",
       "sitelink": "https://ssisaias.github.io/design-system-05/",
       "image": "https://raw.githubusercontent.com/ssisaias/design-system-05/main/thumbs.png"
