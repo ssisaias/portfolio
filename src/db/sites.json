@@ -70,5 +70,13 @@
       "github": "https://github.com/ssisaias/ignite-shop-app-router",
       "sitelink": "https://next-app-router-stripe-shop.netlify.app/",
       "image": "https://raw.githubusercontent.com/ssisaias/ignite-shop-app-router/main/thumbs.png"
+    },
+    {
+      "id": "10",
+      "name": "Design System + Storybook",
+      "description": "NextJs App Router Shop with Stripe integration sample",
+      "github": "https://github.com/ssisaias/design-system-05",
+      "sitelink": "https://ssisaias.github.io/design-system-05/",
+      "image": "https://raw.githubusercontent.com/ssisaias/design-system-05/main/thumbs.png"
     }
 ]  

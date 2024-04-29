@@ -17,12 +17,12 @@ export const WebsiteCardContainer = styled.div`
 `
 
 export const WsCardHeaderContainer = styled.div`
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
+    padding-left: 1.15rem;
+    padding-right: 1.15rem;
 
     h4{
         font-family: 'Baloo 2';
-        font-size: 1.25rem;
+        font-size: 1.15rem;
         font-weight: 700;
         line-height: 130%;
         color: ${props => props.theme['base-subtitle']};
