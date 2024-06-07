@@ -78,5 +78,13 @@
       "github": "https://github.com/ssisaias/design-system-05",
       "sitelink": "https://ssisaias.github.io/design-system-05/",
       "image": "https://raw.githubusercontent.com/ssisaias/design-system-05/main/thumbs.png"
+    },
+    {
+      "id": "10",
+      "name": "Ignite Call",
+      "description": "Using NextJs, connect with the google API and create appointments on the Google Calendar",
+      "github": "https://github.com/ssisaias/ignite-call-app-router-tw",
+      "sitelink": "https://isaias-igcall.vercel.app/",
+      "image": "https://raw.githubusercontent.com/ssisaias/ignite-call-app-router-tw/main/public/Screenshot.png"
     }
 ]  
