@@ -1,90 +1,106 @@
 [
-    {
-        "id": "1",
-        "name": "Showcase (Portfolio)",
-        "description": "Source for this showcase. Made with React.",
-        "github": "https://github.com/ssisaias/portfolio",
-        "sitelink": "https://showcase.isaiasdevlog.com",
-        "image": "https://raw.githubusercontent.com/ssisaias/portfolio/main/src/assets/s-logo.png"
-    },
-    {
-      "id": "2",
-      "name": "¿¿¿ ¡¡¡",
-      "description": "Easily copy spanish inverted punctuation marks.",
-      "github": "https://github.com/ssisaias/puntuacion-facil",
-      "sitelink": "https://ssisaias.github.io/puntuacion-facil/",
-      "image": "https://raw.githubusercontent.com/ssisaias/puntuacion-facil/master/screenshot.png"
-    },
-    {
-        "id": "3",
-        "name": "Coffee Delivery",
-        "description": "Sample Coffee Delivery website built with React",
-        "github": "https://github.com/ssisaias/desafio02-coffee-delivery",
-        "sitelink": "https://delightful-bonbon-5889fa.netlify.app/",
-        "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/f_auto,q_auto/v1/showcase/avy0jctm4zfwu5cuorcu"
-    },
-    {
-        "id": "4",
-        "name": "Rotion (notion clone)",
-        "description": "Simple clone of the popular note taking app Notion. Built with Electron and React.",
-        "github": "https://github.com/ssisaias/rotion",
-        "sitelink": "https://github.com/ssisaias/rotion/releases/tag/v1.0.10",
-        "image": "https://raw.githubusercontent.com/ssisaias/rotion/master/.github/demo.gif"
-    },
-    {
-      "id": "5",
-      "name": "DT Money",
-      "description": "DT Money is a simple expense tracker used to build on the concepts of forms, hooks, useCallback and Memo/useMemo",
-      "github": "https://github.com/ssisaias/dtmoney",
-      "sitelink": "https://incandescent-dasik-f286a1.netlify.app/",
-      "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710178503/showcase/Screenshot_2024-03-11_143442_upmluo.png"
-    },
-    {
-      "id": "6",
-      "name": "Github blog",
-      "description": "A simple blog using Github API to fetch data, uses React Router, Styled Components, hooks, contexts etc...",
-      "github": "https://github.com/ssisaias/desafio03-github-blog",
-      "sitelink": "https://endearing-bonbon-be1d65.netlify.app/",
-      "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710887618/showcase/aaa_l0b97o.png"
-    },
-    {
-      "id": "7",
-      "name": "Pizza Shop",
-      "description": "Pizza shop app to view and control orders. Description of the stack used on the repo's README",
-      "github": "https://github.com/ssisaias/pizzashop",
-      "sitelink": "https://main--steady-youtiao-ded71c.netlify.app/",
-      "image": "https://raw.githubusercontent.com/ssisaias/pizzashop/main/image.png"
-    },
-    {
-      "id": "8",
-      "name": "🦀",
-      "description": "🦀",
-      "github": "https://github.com/ssisaias/crabfactory",
-      "sitelink": "https://crabfactory.vip/",
-      "image": "https://c.tenor.com/SokDBqmMsT8AAAAd/tenor.gif"
-    },
-    {
-      "id": "9",
-      "name": "NextJs App Router Shop",
-      "description": "NextJs App Router Shop with Stripe integration sample",
-      "github": "https://github.com/ssisaias/ignite-shop-app-router",
-      "sitelink": "https://next-app-router-stripe-shop.netlify.app/",
-      "image": "https://raw.githubusercontent.com/ssisaias/ignite-shop-app-router/main/thumbs.png"
-    },
-    {
-      "id": "10",
-      "name": "Design System + Storybook",
-      "description": "Monorepo using Storybook to create a design system with React + Tailwind",
-      "github": "https://github.com/ssisaias/design-system-05",
-      "sitelink": "https://ssisaias.github.io/design-system-05/",
-      "image": "https://raw.githubusercontent.com/ssisaias/design-system-05/main/thumbs.png"
-    },
-    {
-      "id": "10",
-      "name": "Ignite Call",
-      "description": "Using NextJs, connect with the google API and create appointments on the Google Calendar",
-      "github": "https://github.com/ssisaias/ignite-call-app-router-tw",
-      "sitelink": "https://isaias-igcall.vercel.app/",
-      "image": "https://raw.githubusercontent.com/ssisaias/ignite-call-app-router-tw/main/public/Screenshot.png"
-    }
-]  
+  {
+    "id": "12",
+    "name": "Meu Salário em Dolar",
+    "description": "Currency converter experiment. Made with React+Remix.",
+    "github": "https://github.com/ssisaias/meusalarioemdolar.info",
+    "sitelink": "https://meusalarioemdolar.info",
+    "image": ""
+  },
+  {
+    "id": "13",
+    "name": "Meu Salário em BTC",
+    "description": "Currency converter experiment. Made with React+Remix.",
+    "github": "https://github.com/ssisaias/meusalarioembtc.info",
+    "sitelink": "https://meusalarioemdobtc.info",
+    "image": ""
+  },
+  {
+    "id": "1",
+    "name": "Showcase (Portfolio)",
+    "description": "Source for this showcase. Made with React.",
+    "github": "https://github.com/ssisaias/portfolio",
+    "sitelink": "https://showcase.isaiasdevlog.com",
+    "image": "https://raw.githubusercontent.com/ssisaias/portfolio/main/src/assets/s-logo.png"
+  },
+  {
+    "id": "2",
+    "name": "¿¿¿ ¡¡¡",
+    "description": "Easily copy spanish inverted punctuation marks.",
+    "github": "https://github.com/ssisaias/puntuacion-facil",
+    "sitelink": "https://ssisaias.github.io/puntuacion-facil/",
+    "image": "https://raw.githubusercontent.com/ssisaias/puntuacion-facil/master/screenshot.png"
+  },
+  {
+    "id": "3",
+    "name": "Coffee Delivery",
+    "description": "Sample Coffee Delivery website built with React",
+    "github": "https://github.com/ssisaias/desafio02-coffee-delivery",
+    "sitelink": "https://delightful-bonbon-5889fa.netlify.app/",
+    "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/f_auto,q_auto/v1/showcase/avy0jctm4zfwu5cuorcu"
+  },
+  {
+    "id": "4",
+    "name": "Rotion (notion clone)",
+    "description": "Simple clone of the popular note taking app Notion. Built with Electron and React.",
+    "github": "https://github.com/ssisaias/rotion",
+    "sitelink": "https://github.com/ssisaias/rotion/releases/tag/v1.0.10",
+    "image": "https://raw.githubusercontent.com/ssisaias/rotion/master/.github/demo.gif"
+  },
+  {
+    "id": "5",
+    "name": "DT Money",
+    "description": "DT Money is a simple expense tracker used to build on the concepts of forms, hooks, useCallback and Memo/useMemo",
+    "github": "https://github.com/ssisaias/dtmoney",
+    "sitelink": "https://incandescent-dasik-f286a1.netlify.app/",
+    "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710178503/showcase/Screenshot_2024-03-11_143442_upmluo.png"
+  },
+  {
+    "id": "6",
+    "name": "Github blog",
+    "description": "A simple blog using Github API to fetch data, uses React Router, Styled Components, hooks, contexts etc...",
+    "github": "https://github.com/ssisaias/desafio03-github-blog",
+    "sitelink": "https://endearing-bonbon-be1d65.netlify.app/",
+    "image": "https://res.cloudinary.com/dlgsn5op5/image/upload/v1710887618/showcase/aaa_l0b97o.png"
+  },
+  {
+    "id": "7",
+    "name": "Pizza Shop",
+    "description": "Pizza shop app to view and control orders. Description of the stack used on the repo's README",
+    "github": "https://github.com/ssisaias/pizzashop",
+    "sitelink": "https://main--steady-youtiao-ded71c.netlify.app/",
+    "image": "https://raw.githubusercontent.com/ssisaias/pizzashop/main/image.png"
+  },
+  {
+    "id": "8",
+    "name": "🦀",
+    "description": "🦀",
+    "github": "https://github.com/ssisaias/crabfactory",
+    "sitelink": "https://crabfactory.vip/",
+    "image": "https://c.tenor.com/SokDBqmMsT8AAAAd/tenor.gif"
+  },
+  {
+    "id": "9",
+    "name": "NextJs App Router Shop",
+    "description": "NextJs App Router Shop with Stripe integration sample",
+    "github": "https://github.com/ssisaias/ignite-shop-app-router",
+    "sitelink": "https://next-app-router-stripe-shop.netlify.app/",
+    "image": "https://raw.githubusercontent.com/ssisaias/ignite-shop-app-router/main/thumbs.png"
+  },
+  {
+    "id": "10",
+    "name": "Design System + Storybook",
+    "description": "Monorepo using Storybook to create a design system with React + Tailwind",
+    "github": "https://github.com/ssisaias/design-system-05",
+    "sitelink": "https://ssisaias.github.io/design-system-05/",
+    "image": "https://raw.githubusercontent.com/ssisaias/design-system-05/main/thumbs.png"
+  },
+  {
+    "id": "11",
+    "name": "Ignite Call",
+    "description": "Using NextJs, connect with the google API and create appointments on the Google Calendar",
+    "github": "https://github.com/ssisaias/ignite-call-app-router-tw",
+    "sitelink": "https://isaias-igcall.vercel.app/",
+    "image": "https://raw.githubusercontent.com/ssisaias/ignite-call-app-router-tw/main/public/Screenshot.png"
+  }
+]
