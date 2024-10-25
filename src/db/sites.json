@@ -4,7 +4,7 @@
     "name": "Meu Salário em Dolar",
     "description": "Currency converter experiment. Made with React+Remix.",
     "github": "https://github.com/ssisaias/meusalarioemdolar.info",
-    "sitelink": "https://meusalarioemdolar.info",
+    "sitelink": "https://www.meusalarioemdolar.info/",
     "image": "https://raw.githubusercontent.com/ssisaias/portfolio/refs/heads/main/src/assets/meusalarioemdolar.png"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Meu Salário em BTC",
     "description": "Currency converter experiment. Made with React+Remix.",
     "github": "https://github.com/ssisaias/meusalarioembtc.info",
-    "sitelink": "https://meusalarioemdobtc.info",
+    "sitelink": "https://meusalarioembtc.info/",
     "image": "https://raw.githubusercontent.com/ssisaias/portfolio/refs/heads/main/src/assets/meusalarioembtc.png"
   },
   {
