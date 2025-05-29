@@ -33,7 +33,7 @@
 	}
 	.toTheRight:hover {
 		border-radius: 20%;
-		border: 1px solid var(--yellow-dark);
-		background-color: var(--yellow-light);
+		border: 1px solid var(--cyan-dark);
+		background-color: var(--background-secondary);
 	}
 </style>

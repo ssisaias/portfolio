@@ -26,6 +26,7 @@
 		border-radius: 100px;
 		border: 2px solid var(--toggle-button);
 		position: relative;
+		margin-right: 0.6rem;
 	}
 
 	.switch__input {
@@ -54,6 +55,6 @@
 	}
 
 	.switch:hover {
-		border-color: var(--yellow-dark);
+		border-color: var(--cyan-dark);
 	}
 </style>
