@@ -95,7 +95,7 @@
       display: flex;
       align-items: center;
       gap: 6px;
-      background-color: var(--yellow-light);
+      background-color: var(--background-secondary);
       padding: 0.4rem 0.75rem;
       border-radius: 6px;
       text-decoration: none;
@@ -103,11 +103,13 @@
       justify-content: center;
       min-width: 120px;
       transition: background-color 0.3s, color 0.3s;
+      border: 1px solid transparent;
     }
   
     .website-card__footer a:hover {
       background-color: var(--base-hover);
-      color: var(--yellow);
+      color: var(--cyan);
+      border: 1px solid var(--cyan);
     }
   </style>
   

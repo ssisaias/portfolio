@@ -1,28 +1,28 @@
 :root {
 	/* Light Theme */
 	--background: #f9fbfd;
+	--background-secondary: #cdeced;
 	--base-card: #e8edf3;
 	--base-hover: #3a506b;
 	--base-subtitle: #1c2541;
 	--base-text: #0b132b;
 	--toggle-button: #5bc0be;
-	--yellow-dark: #5bc0be;
-	--yellow: #06d6a0;
-	--yellow-light: #cdeced;
+	--cyan-dark: #5bc0be;
+	--cyan: #06d6a0;
 	--white: #ffffff;
 }
 
 :root[data-theme='dark'] {
 	/* Dark Theme */
 	--background: #0b132b;
+	--background-secondary: #3a506b;
 	--base-card: #1c2541;
 	--base-hover: #1c2541;
 	--base-subtitle: #6fffe9;
 	--base-text: #f3fcf0;
 	--toggle-button: #5bc0be;
-	--yellow-dark: #5bc0be;
-	--yellow: #6fffe9;
-	--yellow-light: #3a506b;
+	--cyan-dark: #5bc0be;
+	--cyan: #6fffe9;
 	--white: #ffffff;
 }
 
